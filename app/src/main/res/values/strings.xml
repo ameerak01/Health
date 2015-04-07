@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Health2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weight_loss_health_plan">Weight Loss and Diet Plan</string>
+    <string name="button_text2">Medical Report</string>
+    <string name="title_activity_doctors_visits">Doctor Visits</string>
+    <string name="button_text4">Calorie Tracker Diary</string>
+    <string name="title_activity_weight_loss_and_diet_plan">WeightLossAndDietPlan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_medical_report">MedicalReport</string>
+
+</resources>
